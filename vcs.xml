@@ -18,6 +18,10 @@
           <option name="url" value="https://bitbucket.org/pik2018/bor" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/pik2018/borowik.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\IdeaProjects" />
